@@ -7,11 +7,11 @@ Founded by Professor Emerita Donna M Gavin and undergraduate women computer scie
 
 Due to the expertise of our undergraduate student Facilitators, our club curriculum is focused on the Python programming language. Participants learn core coding concepts and implement their new skills in a capstone project of their choosing.
 
-<h2>Club Meetings</h2>
-  <!-- comment out 
+<h2>Club Meetings and Projects</h2>
 <ul>
-  <li><a href="meetings.md">Club meetings and news</a></li>
+  <li><a href="meetings.md">Club meetings and Projects</a></li>
 </ul>
+  <!-- comment out 
 -->
 <h2>Additonal Resources</h2>
 <ul>
