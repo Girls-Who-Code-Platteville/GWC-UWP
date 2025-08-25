@@ -7,23 +7,38 @@ Founded by Professor Emerita Donna M Gavin and undergraduate women computer scie
 
 Due to the expertise of our undergraduate student Facilitators, our club curriculum is focused on the Python programming language. Participants learn core coding concepts and implement their new skills in a capstone project of their choosing.
 
-<h2>Club Meetings</h2>
-  <!-- comment out 
-<ul>
-  <li><a href="meetings.md">Club meetings and news</a></li>
-</ul>
--->
+<h2>Register for the Girls Who Code Club</h2>
+
+<h3>Meeting Dates for Fall 2025:</h3>
+<h4>Mondays 4:00 - 5:30 pm in the Hillmen Conference Room at Platteville High School</h4>
+<h4>Dates</h4>
+  <li>September 15, 22, 29</li>
+  <li>October 6, 13, 20, 27</li>
+  <li>November 3, 10, 17, 24</li>
+  <li>December 1</li>
+  <li>December 8 - GWC Expo</li>
+
+<h3>Here is a link to register for the Girls Who Code Club:</h3>
+<table style="width:100%">
+  <tr>
+    <td style="width:70%"><p><a href="https://app.campdoc.com/register/uwplatteville/gwcfall" target="_blank">UWP Girls Who Code Club</a></p></td>
+    <td><img src="GWC_QR_CODE.png" alt="UWP Girls Who Code Registration on Camp Doc"></td>
+  </tr>
+</table>
+
+
+
 <h2>Additonal Resources</h2>
 <ul>
   <li>For learners</li>
     <ul>
-      <li><a href="troubleshooting-checklist.md">Troubleshooting checklist</a></li>
-      <li><a href="functions_methods_packages.md">Functions, Methods, Packages</a></li>
-      <li><a href="learning-resources.md">Resources for learners</a></li>
+      <li><a href="troubleshooting-checklist.html">Troubleshooting checklist</a></li>
+      <li><a href="functions_methods_packages.html">Functions, Methods, Packages</a></li>
+      <li><a href="learning-resources.html">Resources for learners</a></li>
     </ul>
   <li>For All</li>
   <ul>
-    <li><a href="debugging-the-gender-gap.md">Debugging the Gender Gap</a></li>
+    <li><a href="debugging-the-gender-gap.html">Debugging the Gender Gap</a></li>
   </ul>
 </ul>
 <h2>Get Involved</h2>
