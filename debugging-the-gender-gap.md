@@ -42,7 +42,7 @@
 
 <h2> Call to Action</h2>
 <ol>
-  <li>Parents/guardians, **remind** your children or colleagues that the feelings from imposter syndrome affect almost everone, and it doesn’t mean you don’t belong.</li>
+  <li>Parents/guardians, <strong>remind</strong> your children or colleagues that the feelings from imposter syndrome affect almost everone, and it doesn’t mean you don’t belong.</li>
   <li> Parents/guardians, particularly men who are role models and father figures, **encourage** girls that they can be absolutely anything they want and to pursue their interests.</li>
   <li> Everyone, **advocate** for earlier and better computer science education in schools, particularly computational thinking classes!</li>
   <li> Everyone, **find** a community where you can network, mentor or receive mentorship, learn from others, and feel less isolated.</li>
